@@ -24,7 +24,7 @@ html {
   color: var(--color-dark-purple);
 }
 body {
-  background-image: url(assets/images/background-pattern-desktop.svg);
+  background-image: url("assets/images/background-pattern-desktop.svg");
   background-repeat: no-repeat;
   background-color: var(--color-light-pink);
   padding: 10px;
